@@ -10,7 +10,7 @@ Then install the {twilio} package from R.
 install.packages("twilio")
 ```
 
-After install the package successfuly, now you can activate the package.
+After install the package successfully, now you can activate the package.
 
 ```
 library(twilio)
