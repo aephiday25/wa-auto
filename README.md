@@ -1,6 +1,6 @@
 # wa-auto
 
-Send automatic notification from R to your WhatsApp from Twilio API.
+Send automatic notification from R to your WhatsApp from <a href='https://twilio.com' target='_blank'>Twilio</a> API.
 
 First, you need to sign up and create Twilio account. You will get ACCOUNT SID and AUTH TOKEN. You maybe need to copy and Save these auth to your local R project so R can send the notification.  
 
